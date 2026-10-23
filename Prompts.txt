@@ -1,0 +1,10 @@
+Needs a updated and better version. Table template, Front size and Color not likes good. Needs the below change and share it as downloadable editable PPT
+1. Pilot → V1.0 → V2.0 needs to be changed as Pilot to V1.0 → V1.0 to V2.0 → V2.0 to V3.0 in all place where and its coming.
+2. attached sample images for your reference for Front color, Table format and table Alignment.
+3. 2nd slide is not looks like professional, it look more chamise As whole page is covered with table which is not looks good.
+4. The below should come in separate table in the name of SIT WBS Phase ROI and that for each Test case minutes wise saving.
+5. Apart from the above table need 3 tables for Regression saving Per release, 01  ONGOING IMPLEMENTATION WORK saving and PIPELINE RELEASE ROI . Kindly remove the 1st row data from the table.
+6. kindly change the title as Nexus one- Driven Testing Transformation than AI-Driven Testing Transformation
+
+
+
